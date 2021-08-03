@@ -9,62 +9,22 @@
       "MOA Class": 4,
       "MOA Category": "a",
       "CADRO MOA Category": "",
-      "Geography": ""
+      "Geography": "",
+      "Start Date": "2012-10-05",
+      "Primary Completion Date": "2019-03-21"
     },
     {
-      "Phase": "Phase 1",
-      "NCT #": "NCT03298672",
-      "Drug Name": "NDX-1017",
-      "Status": "Completed",
-      "Biomarkers": "no",
-      "MOA Class": 4,
-      "MOA Category": "g",
-      "CADRO MOA Category": "",
-      "Geography": ""
-    },
-    {
-      "Phase": "Phase 1",
-      "NCT #": "NCT03008161",
-      "Drug Name": "NPT088",
-      "Status": "Completed",
-      "Biomarkers": "PET",
-      "MOA Class": 4,
-      "MOA Category": "a, b",
-      "CADRO MOA Category": "",
-      "Geography": ""
-    },
-    {
-      "Phase": "Phase 1",
-      "NCT #": "NCT03698695",
-      "Drug Name": "THN 201 (donepezil and mefloquine combo)",
-      "Status": "Ongoing",
-      "Biomarkers": "no",
-      "MOA Class": 3,
-      "MOA Category": "e",
-      "CADRO MOA Category": "D, F?",
-      "Geography": 3
-    },
-    {
-      "Phase": "Phase 1",
-      "NCT #": "NCT01966666",
-      "Drug Name": "TPI-287",
-      "Status": "Ongoing",
-      "Biomarkers": "No",
-      "MOA Class": 3,
-      "MOA Category": "b",
-      "CADRO MOA Category": "B",
-      "Geography": 1
-    },
-    {
-      "Phase": "Phase 1",
-      "NCT #": "NCT03056495",
-      "Drug Name": "Vorinostat",
+      "Phase": "Phase 1|Phase 2",
+      "NCT #": "NCT03493282",
+      "Drug Name": "CT1812",
       "Status": "Recruiting",
-      "Biomarkers": "no",
+      "Biomarkers": "CSF or PET",
       "MOA Class": 3,
-      "MOA Category": "c",
-      "CADRO MOA Category": "F (infection/immunity)",
-      "Geography": 3
+      "MOA Category": "a",
+      "CADRO MOA Category": "A",
+      "Geography": 1,
+      "Start Date": "2018-04-20",
+      "Primary Completion Date": "2020-01-31"
     },
     {
       "Phase": "Phase 1|Phase 2",
@@ -75,7 +35,9 @@
       "MOA Class": "3?",
       "MOA Category": "d",
       "CADRO MOA Category": "J",
-      "Geography": 1
+      "Geography": 1,
+      "Start Date": "2019-01-29",
+      "Primary Completion Date": "2020-10-01"
     },
     {
       "Phase": "Phase 1|Phase 2",
@@ -86,18 +48,61 @@
       "MOA Class": 3,
       "MOA Category": "c, f",
       "CADRO MOA Category": "M",
-      "Geography": 1
+      "Geography": 1,
+      "Start Date": "2016-09-01",
+      "Primary Completion Date": "2019-12-01"
     },
     {
-      "Phase": "Phase 2",
-      "NCT #": "NCT02579252",
-      "Drug Name": "AADvac1",
-      "Status": "Completed",
+      "Phase": "Phase 1|Phase 2",
+      "NCT #": "NCT02054208",
+      "Drug Name": "hUCB-MSCs (human umbilical cord blood derived mesenchymal stem cells) NEUROSTEM",
+      "Status": "Recruiting",
+      "Biomarkers": "PET",
+      "MOA Class": "stem cell",
+      "MOA Category": "g",
+      "CADRO MOA Category": "NGB",
+      "Geography": 5,
+      "Start Date": "2014-02-01",
+      "Primary Completion Date": "2019-07-01"
+    },
+    {
+      "Phase": "Phase 1|Phase 2",
+      "NCT #": "NCT03172117",
+      "Drug Name": "hUCB-MSCs (human umbilical cord blood derived mesenchymal stem cells) NEUROSTEM",
+      "Status": "Recruiting, extension",
+      "Biomarkers": "no",
+      "MOA Class": "stem cell",
+      "MOA Category": "g",
+      "CADRO MOA Category": "NGB",
+      "Geography": 5,
+      "Start Date": "2017-05-19",
+      "Primary Completion Date": "2021-12-31"
+    },
+    {
+      "Phase": "Phase 1|Phase 2",
+      "NCT #": "NCT02925650",
+      "Drug Name": "Posiphen",
+      "Status": "Recruiting",
       "Biomarkers": "CSF",
-      "MOA Class": 4,
-      "MOA Category": "b",
-      "CADRO MOA Category": "B",
-      "Geography": ""
+      "MOA Class": 3,
+      "MOA Category": "a",
+      "CADRO MOA Category": "A",
+      "Geography": 1,
+      "Start Date": "2017-03-02",
+      "Primary Completion Date": "2019-12-31"
+    },
+    {
+      "Phase": "Phase 1|Phase 2",
+      "NCT #": "NCT03101085",
+      "Drug Name": "S-equol (AUS-131)",
+      "Status": "Recruiting",
+      "Biomarkers": "No",
+      "MOA Class": 3,
+      "MOA Category": "c",
+      "CADRO MOA Category": "L or M?",
+      "Geography": 1,
+      "Start Date": "2017-05-05",
+      "Primary Completion Date": "2020-03-30"
     },
     {
       "Phase": "Phase 2",
@@ -108,7 +113,48 @@
       "MOA Class": 4,
       "MOA Category": "b",
       "CADRO MOA Category": "B",
-      "Geography": "1, 3, 7"
+      "Geography": "1, 3, 7",
+      "Start Date": "2019-03-22",
+      "Primary Completion Date": "2026-08-11"
+    },
+    {
+      "Phase": "Phase 2",
+      "NCT #": "NCT03461276",
+      "Drug Name": "ABvac40",
+      "Status": "Recruiting",
+      "Biomarkers": "no",
+      "MOA Class": 4,
+      "MOA Category": "a",
+      "CADRO MOA Category": "A",
+      "Geography": 3,
+      "Start Date": "2018-02-08",
+      "Primary Completion Date": "2022-02-01"
+    },
+    {
+      "Phase": "Phase 2",
+      "NCT #": "NCT03790982",
+      "Drug Name": "AD-35",
+      "Status": "Active, not recruiting",
+      "Biomarkers": "no",
+      "MOA Class": 1,
+      "MOA Category": "e",
+      "CADRO MOA Category": "D",
+      "Geography": 5,
+      "Start Date": "2018-12-01",
+      "Primary Completion Date": "2020-12-30"
+    },
+    {
+      "Phase": "Phase 2",
+      "NCT #": "NCT03625401",
+      "Drug Name": "AD-35",
+      "Status": "Recruiting",
+      "Biomarkers": "no",
+      "MOA Class": 1,
+      "MOA Category": "e",
+      "CADRO MOA Category": "D",
+      "Geography": 1,
+      "Start Date": "2018-10-04",
+      "Primary Completion Date": "2019-07-31"
     },
     {
       "Phase": "Phase 2",
@@ -119,150 +165,61 @@
       "MOA Class": 4,
       "MOA Category": "a",
       "CADRO MOA Category": "",
-      "Geography": ""
+      "Geography": "",
+      "Start Date": "2018-12-20",
+      "Primary Completion Date": "2019-07-30"
     },
     {
       "Phase": "Phase 2",
-      "NCT #": "NCT02129348",
-      "Drug Name": "Lithium",
+      "NCT #": "NCT02359552",
+      "Drug Name": "Rasagiline",
+      "Status": "Completed",
+      "Biomarkers": "FDG-PET",
+      "MOA Class": 3,
+      "MOA Category": "a, c, d",
+      "CADRO MOA Category": "J",
+      "Geography": "",
+      "Start Date": "2015-05-01",
+      "Primary Completion Date": "2018-08-29"
+    },
+    {
+      "Phase": "Phase 2",
+      "NCT #": "NCT01703117",
+      "Drug Name": "Riluzole",
       "Status": "Recruiting",
       "Biomarkers": "No",
-      "MOA Class": 2,
-      "MOA Category": "e",
-      "CADRO MOA Category": "D",
-      "Geography": 1
-    },
-    {
-      "Phase": "Phase 2",
-      "NCT #": "NCT03062449",
-      "Drug Name": "L-Serine",
-      "Status": "Recruiting",
-      "Biomarkers": "no",
       "MOA Class": 3,
       "MOA Category": "c",
-      "CADRO MOA Category": "F? M?",
-      "Geography": 1
+      "CADRO MOA Category": "D",
+      "Geography": 1,
+      "Start Date": "2013-11-01",
+      "Primary Completion Date": "2020-11-01"
     },
     {
       "Phase": "Phase 2",
-      "NCT #": "NCT03649724",
-      "Drug Name": "Lupron (Leuprolide Acetate Depot) + ACheI (2014 study showed that in a sub population of female subjects on AchEI, showed cognitive improvement; basis for this current study)",
-      "Status": "Not yet recruiting",
-      "Biomarkers": "PET",
-      "MOA Class": "3?",
-      "MOA Category": "d",
-      "CADRO MOA Category": "L?",
-      "Geography": 1
-    },
-    {
-      "Phase": "Phase 2",
-      "NCT #": "NCT03367403",
-      "Drug Name": "LY3002813",
-      "Status": "Ongoing",
-      "Biomarkers": "PET",
-      "MOA Class": 4,
-      "MOA Category": "a",
-      "CADRO MOA Category": "A",
-      "Geography": 1
-    },
-    {
-      "Phase": "Phase 2",
-      "NCT #": "NCT03518073",
-      "Drug Name": "LY3303560 (zagotenemab)",
-      "Status": "Ongoing",
-      "Biomarkers": "no",
-      "MOA Class": 4,
-      "MOA Category": "b",
-      "CADRO MOA Category": 2,
-      "Geography": "1, 5"
-    },
-    {
-      "Phase": "Phase 2|Phase 3",
-      "NCT #": "NCT03131453",
-      "Drug Name": "CNP520 (Umibecestate) (Generation 2 - why still listed as ongoing?)",
-      "Status": "Ongoing",
-      "Biomarkers": "PET or CSF",
-      "MOA Class": 3,
-      "MOA Category": "a",
-      "CADRO MOA Category": "A",
-      "Geography": "1, 2, 3, 5, 6, 7"
-    },
-    {
-      "Phase": "Phase 2|Phase 3",
-      "NCT #": "NCT03823404",
-      "Drug Name": "COR388",
+      "NCT #": "NCT03462121",
+      "Drug Name": "RPh201",
       "Status": "Recruiting",
-      "Biomarkers": "no",
-      "MOA Class": 3,
-      "MOA Category": "f",
-      "CADRO MOA Category": "F",
-      "Geography": ""
-    },
-    {
-      "Phase": "Phase 2|Phase 3",
-      "NCT #": "NCT01760005",
-      "Drug Name": "Gantenerumab & Solanezumab",
-      "Status": "Recruiting (changed from ongoing to recruiting)",
-      "Biomarkers": "No",
-      "MOA Class": 4,
-      "MOA Category": "a",
-      "CADRO MOA Category": "A",
-      "Geography": "1, 2, 3, 5, 6, 7"
-    },
-    {
-      "Phase": "Phase 2|Phase 3",
-      "NCT #": "NCT03090516",
-      "Drug Name": "Ginkgo Biloba",
-      "Status": "Recruiting",
-      "Biomarkers": "no",
-      "MOA Class": 1,
-      "MOA Category": "d",
-      "CADRO MOA Category": "J, K ?",
-      "Geography": 5
-    },
-    {
-      "Phase": "Phase 2|Phase 3",
-      "NCT #": "NCT02719327",
-      "Drug Name": "Icosapent ethyl (IPE) (Vascepa)",
-      "Status": "Recruiting",
-      "Biomarkers": "no",
+      "Biomarkers": "MRI or CT",
       "MOA Class": 3,
       "MOA Category": "c",
-      "CADRO MOA Category": "M",
-      "Geography": 1
+      "CADRO MOA Category": "E?",
+      "Geography": 1,
+      "Start Date": "2018-03-01",
+      "Primary Completion Date": "2019-12-28"
     },
     {
-      "Phase": "Phase 2|Phase 3",
-      "NCT #": "NCT02913664",
-      "Drug Name": "Losartan, Amlodipine, Atorvastatin + exercise (all count as 1 agent)",
-      "Status": "Recruiting",
-      "Biomarkers": "no",
-      "MOA Class": 3,
-      "MOA Category": "f, d",
-      "CADRO MOA Category": "K",
-      "Geography": 1
-    },
-    {
-      "Phase": "Phase 2|Phase 3",
-      "NCT #": "NCT02351882",
-      "Drug Name": "Nabilone",
-      "Status": "Completed (success; showed reduced agitation and improvement on MMSE but poorer cognition and sedation vs. placebo)",
-      "Biomarkers": "No",
-      "MOA Class": 2,
-      "MOA Category": "e",
-      "CADRO MOA Category": "D",
-      "Geography": ""
-    },
-    {
-      "Phase": "Phase 2|Phase 3",
-      "NCT #": "NCT03446001",
-      "Drug Name": "TRx0237 (LMTX) - using the 4mg BID dose used as the placebo control group in the previous study",
-      "Status": "Ongoing",
+      "Phase": "Phase 2",
+      "NCT #": "NCT01409915",
+      "Drug Name": "Sagramostim (GM-CSF) - Leukine",
+      "Status": "Ongoing (trial cacncelled?)",
       "Biomarkers": "PET",
-      "MOA Class": 3,
-      "MOA Category": "b",
-      "CADRO MOA Category": "B",
-      "Geography": "1, 3, 4"
+      "MOA Class": 4,
+      "MOA Category": "a, c",
+      "CADRO MOA Category": "F, A",
+      "Geography": 1,
+      "Start Date": "2011-03-01",
+      "Primary Completion Date": "2020-05-01"
     },
     {
       "Phase": "Phase 3",
@@ -273,7 +230,9 @@
       "MOA Class": 4,
       "MOA Category": "a",
       "CADRO MOA Category": "A",
-      "Geography": ""
+      "Geography": "",
+      "Start Date": "2015-08-31",
+      "Primary Completion Date": "2019-08-08"
     },
     {
       "Phase": "Phase 3",
@@ -284,7 +243,74 @@
       "MOA Class": 4,
       "MOA Category": "a",
       "CADRO MOA Category": "A",
-      "Geography": ""
+      "Geography": "",
+      "Start Date": "2015-09-30",
+      "Primary Completion Date": "2019-08-05"
+    },
+    {
+      "Phase": "Phase 3",
+      "NCT #": "NCT02346201",
+      "Drug Name": "Methylphenidate",
+      "Status": "Recruiting",
+      "Biomarkers": "No",
+      "MOA Class": 2,
+      "MOA Category": "e",
+      "CADRO MOA Category": "D",
+      "Geography": 1,
+      "Start Date": "2016-01-01",
+      "Primary Completion Date": "2019-12-01"
+    },
+    {
+      "Phase": "Phase 3",
+      "NCT #": "NCT03031184",
+      "Drug Name": "Mirtazapine",
+      "Status": "Recruiting",
+      "Biomarkers": "no",
+      "MOA Class": 2,
+      "MOA Category": "e",
+      "CADRO MOA Category": "D",
+      "Geography": 3,
+      "Start Date": "2017-01-01",
+      "Primary Completion Date": "2020-01-01"
+    },
+    {
+      "Phase": "Phase 3",
+      "NCT #": "NCT03283059",
+      "Drug Name": "Octohydroaminoacridine Succinate",
+      "Status": "Recruiting",
+      "Biomarkers": "MRI",
+      "MOA Class": 1,
+      "MOA Category": "e",
+      "CADRO MOA Category": "D",
+      "Geography": 5,
+      "Start Date": "2017-08-16",
+      "Primary Completion Date": "2020-09-16"
+    },
+    {
+      "Phase": "Phase 3",
+      "NCT #": "NCT02008357",
+      "Drug Name": "Solanezumab",
+      "Status": "Ongoing",
+      "Biomarkers": "PET",
+      "MOA Class": "c",
+      "MOA Category": "a",
+      "CADRO MOA Category": "A",
+      "Geography": "1, 6, 7",
+      "Start Date": "2014-02-28",
+      "Primary Completion Date": "2022-07-22"
+    },
+    {
+      "Phase": "Phase 3",
+      "NCT #": "NCT03075241",
+      "Drug Name": "Zolpidem & Zoplicone (studied separately)",
+      "Status": "Recruiting",
+      "Biomarkers": "no",
+      "MOA Class": 2,
+      "MOA Category": "e",
+      "CADRO MOA Category": "D",
+      "Geography": 2,
+      "Start Date": "2016-10-01",
+      "Primary Completion Date": "2020-01-01"
     },
     {
       "Phase": "Phase 2",
@@ -295,7 +321,9 @@
       "MOA Class": 4,
       "MOA Category": "a",
       "CADRO MOA Category": "A",
-      "Geography": "1, 3, 5, 6"
+      "Geography": "1, 3, 5, 6",
+      "Start Date": "2012-12-20",
+      "Primary Completion Date": "2022-01-27"
     }
   ]
 }
